@@ -1,6 +1,6 @@
-# magic-calulator.js
+# Magic Calculator
 
-## Functionality
+##Functionality:
 
 ### Display
 This will show the current number.
