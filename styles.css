@@ -17,17 +17,19 @@
   margin-top: 10px;
   text-align: center;
   border-radius: 20px;
+  font-size: 15px;
 }
 
 .zero-btn{
   margin: auto;
   background-color: white;
   padding: 100px 100px;
-  padding-top: 15px;
+  padding-top: 10px;
   padding-bottom: 10px;
   margin: 10px 35px;
   text-align: center;
   border-radius: 20px;
+  font-size: 20px;
 }
 
 .reset-btn{
@@ -41,6 +43,7 @@
   margin-right: 20px;
   text-align: center;
   border-radius: 20px;
+  font-size: 15px;
 }
 
 .btn{
@@ -65,7 +68,7 @@
 .flex-container > button {
   background-color: #f1f1f1;
   width: 100px;
-  margin:5px;
+  margin:3px;
   text-align: center;
   line-height: 55px;
   font-size: 20px;
